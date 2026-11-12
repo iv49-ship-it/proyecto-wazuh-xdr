@@ -1,0 +1,10 @@
+# Archivos temporales
+*.log
+*.tmp
+*.swp
+
+# Archivos de entorno real (nunca subir)
+.env
+
+# Carpetas de sistema
+.DS_Store
