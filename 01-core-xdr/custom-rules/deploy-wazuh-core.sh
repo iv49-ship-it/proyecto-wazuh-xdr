@@ -1,6 +1,8 @@
 #!/bin/bash
 # Script de despliegue base para Wazuh Core (All-in-one) - S3
-# Requisitos: Ubuntu Server 26.04.1 LTS / Privilegios sudo
+# Requisitos: 
+.Ubuntu Server 26.04.1 LTS
+.Privilegios sudo
 
 # 1. Ajuste obligatorio de memoria virtual para OpenSearch
 sudo sysctl -w vm.max_map_count=262144
