@@ -8,3 +8,9 @@
 
 # Carpetas de sistema
 .DS_Store
+
+# Certificados y secretos de Wazuh (CRÍTICO)
+wazuh-install-files.tar
+*.key
+*.pem
+*.crt
