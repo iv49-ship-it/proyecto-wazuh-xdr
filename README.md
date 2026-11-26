@@ -6,7 +6,7 @@ Repositorio de configuraciones, reglas y scripts para el laboratorio Wazuh (XDR)
 - **Ramas:** `main` para versiones estables y `feature/nombre-tarea` para desarrollo.
 - **Commits:** En español, usando corchetes para el contexto (ej: `[S2] Estructura inicial`, `[CU-01] Regla PHP`).
 
-## 🛠️ Despliegue de Wazuh Core (Semana 3)
+## Despliegue de Wazuh Core (Semana 3)
 
 ### Declaración de Versión
 - **Ecosistema:** Wazuh 4.14 (rama estable `current`), versión exacta verificada en el sistema: **v4.14.10**.
